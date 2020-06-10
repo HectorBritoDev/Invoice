@@ -1,0 +1,60 @@
+.mx-auto {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.ml-3 {
+    margin-left: 83px;
+}
+
+.mt-4 {
+    margin-top: 40px;
+}
+
+.ml-5 {
+    margin-left: 50px;
+}
+
+.ml-10 {
+    margin-left: 100px;
+}
+
+.ml-26 {
+    margin-left: 265px;
+}
+
+.ml-30 {
+    margin-left: 300px;
+}
+
+.ml-45 {
+    margin-left: 457px;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+table {
+    width: 100%;
+    page-break-inside: auto;
+    font-size: small;
+    overflow-x: auto;
+    border: 1px solid #000;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.thead td {
+    font-weight: bold;
+}
